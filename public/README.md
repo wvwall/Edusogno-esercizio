@@ -1,3 +1,5 @@
+
+
 UTILIZZARE LA STRUTTURA VISUALIZATA SOPRA
 
 JS - JAVASCRIPT FILE
@@ -9,4 +11,4 @@ DB - FILE PER LA CONNESSIONE AL DATABASE
 API - INSERIRE VENDOR DI GOOGLE UTILIZZANDO COMPOSER  
 
 La cartella public deve contenere solo il file index.php
-i framework devono essere inclusi tramite CDN 
+i framework devono essere inclusi tramite CDN
