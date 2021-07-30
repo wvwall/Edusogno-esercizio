@@ -1,0 +1,30 @@
+.bg_task {
+  background-image: url(/img/landing.svg);
+  height: 100vh;
+  background-size: cover;
+}
+.white {
+  color: #fff;
+}
+.size {
+  font-size: 1rem;
+}
+.flex-end {
+  display: flex;
+  justify-content: end;
+}
+.blue {
+  color: #30284e;
+}
+.red {
+  color: #ee395b;
+}
+.bg {
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 2px 8px;
+  text-align: center;
+  border-radius: 8px;
+}
+.br {
+  border-radius: 8px;
+}
